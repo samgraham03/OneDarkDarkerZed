@@ -6,7 +6,6 @@
       "name": "One Dark Darker",
       "appearance": "dark",
       "style": {
-        "background.appearance": "opaque",
         "accents": [],
         "border": null,
         "border.variant": null,
@@ -154,6 +153,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "comment": {
+            "color": "#7F838C",
+            "font_style": null,
+            "font_weight": null
+          },
           "constant": {
             "color": "#D8985F",
             "background_color": null,
@@ -185,13 +189,13 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#AAB1C0",
+            "color": "#33d8e4",
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
           "property": {
-            "color": "#AAB1C0",
+            "color": "#EF596F",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -245,7 +249,7 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#EF596F",
+            "color": "#ef596f",
             "background_color": null,
             "font_style": null,
             "font_weight": null
