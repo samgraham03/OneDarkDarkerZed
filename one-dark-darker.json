@@ -165,7 +165,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#D8985F",
+            "color": "#f5c876",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -255,7 +255,7 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#ef596f",
+            "color": "#f5c876",
             "background_color": null,
             "font_style": null,
             "font_weight": null
