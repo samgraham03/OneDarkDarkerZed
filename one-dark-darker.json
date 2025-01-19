@@ -153,6 +153,12 @@
             "font_style": null,
             "font_weight": null
           },
+          "boolean": {
+            "color": "#D8985F",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "comment": {
             "color": "#7F838C",
             "font_style": null,
